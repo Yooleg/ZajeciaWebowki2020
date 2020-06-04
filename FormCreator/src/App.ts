@@ -5,6 +5,7 @@ import {SelectField} from "./SelectField";
 import {EmailField} from "./EmailField";
 import {CheckBoxField} from "./CheckBoxField";
 import {TextAreaField} from "./TextAreaField";
+import "./style.scss"
 
 export class App{
     form:Form;
